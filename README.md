@@ -2,6 +2,6 @@
 My implementation of Conway's Game of Life in Java
 
 
-	Compile and Run
-$ javac lifeGUI.java
+Compile and Run: <br>
+$ javac lifeGUI.java <br>
 $ java lifeGUI
